@@ -1,4 +1,4 @@
-# My Git Assignment
+# GitHub Portfolio Assignment
 
 ## Project Description
 
