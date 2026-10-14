@@ -1,4 +1,4 @@
-# My Git Assignment
+# Muhammed Fazinnaj's Portfolio Project
 
 ## Project Description
 
