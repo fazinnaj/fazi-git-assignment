@@ -31,3 +31,4 @@ along with Git version control concepts.
 ## Author
 
 Muhammed Fazinnaj
+This project demonstrates Git branching and merging.
