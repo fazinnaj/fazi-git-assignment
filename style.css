@@ -11,3 +11,14 @@ h1 {
 p {
     color: #34495e;
 }
+h2 {
+    color: #2471a3;
+}
+
+body {
+    padding: 30px;
+}
+
+h1 {
+    font-size: 36px;
+}
